@@ -42,7 +42,7 @@
 
 <div class="container" style="margin-top: 50px;">
     <center>
-        <img width="50"  src="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png"/>
+        <img width="50"  src="https://zangticsdigital.com/storage/web-logo-rr-1.png"/>
     </center>
     <h2>Create loading spinner indicator in jquery ajax, while data loads</h2>
     <p>How to create loading spinner indicator in jquery ajax</p>
